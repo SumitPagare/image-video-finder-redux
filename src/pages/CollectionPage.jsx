@@ -27,7 +27,7 @@ function CollectionPage() {
             </h1>
 
             <p className="mt-2 text-sm text-gray-500">
-              Your saved photos and videos in one place.
+              See your saved photos and videos in one place.
             </p>
 
           
